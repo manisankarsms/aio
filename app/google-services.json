@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "649634081581",
+    "firebase_url": "https://aio-allinone-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aio-allinone",
+    "storage_bucket": "aio-allinone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649634081581:android:6e90a16ae3db18b95c01a4",
+        "android_client_info": {
+          "package_name": "com.techbros.aio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649634081581-28jrtvqntssb5glptq1pubkm5mfbkpn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByIW63rwpHxYC7ENzKTnhYyvZqn3PIu6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649634081581-28jrtvqntssb5glptq1pubkm5mfbkpn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
